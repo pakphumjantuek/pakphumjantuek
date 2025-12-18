@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ภาคภูมิ จันทร์ทึก</h1>
+<h1 align="center">Hi 👋, I'm Pakphum Jantuek</h1>
 <h3 align="center">Full-stack developer specializing in .NET and React</h3>
 
 <h3 align="left">Connect with me:</h3>

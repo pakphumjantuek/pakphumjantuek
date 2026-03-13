@@ -1,6 +1,6 @@
 <h1 align="center">สวัสดีครับ 👋 ผมชื่อ ภาคภูมิ จันทร์ทึก (pakphum jantuek)</h1>
 <p align="center">
-  <strong>💻 นักพัฒนาแอปพลิเคชัน | Full-stack Developer จากประเทศไทย</strong>
+  <strong>💻 นักพัฒนาแอปพลิเคชัน | Full-stack Developer </strong>
 </p>
 
 <!-- <p align="center">

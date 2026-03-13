@@ -43,11 +43,6 @@
 
 ---
 
-### 🏆 ถ้วยรางวัลความสำเร็จ (GitHub Trophies)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-bg=true&margin-w=15" alt="trophies" />
-</p>
-
 ### 📈 สถิติ GitHub
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />

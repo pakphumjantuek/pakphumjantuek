@@ -1,4 +1,4 @@
-<h1 align="center">สวัสดีครับ 👋 ผมชื่อ ภาคภูมิ จันทร์ทึก (pakphum jantuek)</h1>
+<h1 align="center">สวัสดีครับ 👋 ผมชื่อ อวิรุทธ์ ชัยสงคราม (Avirut Chaisongkram)</h1>
 <p align="center">
   <strong>💻 นักพัฒนาแอปพลิเคชัน | Full-stack Developer จากประเทศไทย</strong>
 </p>
@@ -16,6 +16,19 @@
 - 🚀 **เป้าหมาย:** เขียนโค้ดที่สะอาด (Clean Code), ระบบที่รองรับการขยายตัว (Scalability) และ UI/UX ที่สวยงาม
 
 ---
+
+### 🎨 ด้าน Front-end & Mobile Development
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
 ### 🛠️ ด้าน Back-end Development
 <p align="left">
   <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -25,23 +38,15 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-### 🎨 ด้าน Front-end Development
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-
 ---
 
 ### 🌱 กำลังศึกษาและสนใจเพิ่มเติม
 - 🏗️ **UI/UX Design:** เจาะลึกการใช้ Figma, การสร้าง Wireframe และหลักการออกแบบ
 - ⚙️ **Architecture:** ศึกษาเรื่อง **Microservices** และ **Clean Architecture** ในระบบ .NET
-- 📱 **Mobile:** พัฒนาทักษะการสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วย React Native
+- 📱 **Cross-Platform:** พัฒนาประสิทธิภาพแอปด้วย Flutter และ React Native
 
 ---
+
 
 ### 📈 สถิติ GitHub
 <p align="center">

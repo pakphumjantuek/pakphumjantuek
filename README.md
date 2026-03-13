@@ -3,9 +3,9 @@
   <strong>💻 นักพัฒนาแอปพลิเคชัน | Full-stack Developer จากประเทศไทย</strong>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=ยอดผู้เข้าชม&color=0e75b6&style=flat" alt="views" />
-</p>
+</p> -->
 
 ---
 

@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm ภาคภูมิ จันทร์ทึก</h1>
+<h1 align="center">สวัสดีครับ 👋 ผมชื่อ อวิรุทธ์ ชัยสงคราม (Avirut Chaisongkram)</h1>
 <p align="center">
-  <strong>💻 Application Developer | Full-stack Developer from Thailand</strong>
+  <strong>💻 นักพัฒนาแอปพลิเคชัน | Full-stack Developer จากประเทศไทย</strong>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=ยอดผู้เข้าชม&color=0e75b6&style=flat" alt="views" />
 </p>
 
 ---
 
-### ✨ About Me
-- 🧑‍💻 **Role:** Front-end & Back-end Developer
-- 🎯 **Education:** Computer Science at **Kanchanaburi Rajabhat University**, Thailand
-- 🌱 **Passionate:** Designing and customizing high-performance websites and mobile applications
-- 🚀 **Focus:** Clean Code, Scalability, and Beautiful UI/UX
+### ✨ เกี่ยวกับผม
+- 🧑‍💻 **บทบาท:** นักพัฒนา Front-end และ Back-end
+- 🎯 **การศึกษา:** วิทยาการคอมพิวเตอร์ มหาวิทยาลัยราชภัฏกาญจนบุรี
+- 🌱 **ความหลงใหล:** การออกแบบและปรับแต่งเว็บไซต์รวมถึงแอปพลิเคชันมือถือให้มีประสิทธิภาพสูง
+- 🚀 **เป้าหมาย:** เขียนโค้ดที่สะอาด (Clean Code), ระบบที่รองรับการขยายตัว (Scalability) และ UI/UX ที่สวยงาม
 
 ---
 
-### 🎨 Front-end Development
+### 🎨 ด้าน Front-end Development
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-### 🛠️ Back-end Development
+### 🛠️ ด้าน Back-end Development
 <p align="left">
   <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -37,19 +37,19 @@
 
 ---
 
-### 🌱 Currently Learning & Exploring
-- 🏗️ **UI/UX Design:** Deep diving into Figma, Wireframing, and Design Principles.
-- ⚙️ **Architecture:** Exploring **Microservices** and **Clean Architecture** in .NET.
-- 📱 **Mobile:** Enhancing cross-platform experience with React Native.
+### 🌱 กำลังศึกษาและสนใจเพิ่มเติม
+- 🏗️ **UI/UX Design:** เจาะลึกการใช้ Figma, การสร้าง Wireframe และหลักการออกแบบ
+- ⚙️ **Architecture:** ศึกษาเรื่อง **Microservices** และ **Clean Architecture** ในระบบ .NET
+- 📱 **Mobile:** พัฒนาทักษะการสร้างแอปพลิเคชันข้ามแพลตฟอร์มด้วย React Native
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 ถ้วยรางวัลความสำเร็จ (GitHub Trophies)
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-bg=true&margin-w=15" alt="trophies" />
 </p>
 
-### 📈 GitHub Stats
+### 📈 สถิติ GitHub
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
@@ -61,7 +61,7 @@
 
 ---
 
-### 📫 Connect with me:
+### 📫 ช่องทางการติดต่อ:
 <p align="left">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>

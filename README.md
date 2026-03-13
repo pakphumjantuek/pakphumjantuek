@@ -1,4 +1,4 @@
-<h1 align="center">สวัสดีครับ 👋 ผมชื่อ อวิรุทธ์ ชัยสงคราม (Avirut Chaisongkram)</h1>
+<h1 align="center">สวัสดีครับ 👋 ผมชื่อ ภาคภูมิ จันทร์ทึก (pakphum jantuek)</h1>
 <p align="center">
   <strong>💻 นักพัฒนาแอปพลิเคชัน | Full-stack Developer จากประเทศไทย</strong>
 </p>

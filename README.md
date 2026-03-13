@@ -49,22 +49,6 @@
 - ⚙️ **Architecture:** ศึกษาเรื่อง **Microservices** และ **Clean Architecture** ในระบบ .NET
 - 📱 **Cross-Platform:** พัฒนาประสิทธิภาพแอปด้วย Flutter และ React Native
 
----
-
-
-### 📊 สถิติการพัฒนา (GitHub Stats)
-<p align="center">
-  <a href="https://github.com/pakphumjantuek">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=pakphumjantuek&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/pakphumjantuek">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pakphumjantuek&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=320" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pakphumjantuek&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
 
 
 ---
